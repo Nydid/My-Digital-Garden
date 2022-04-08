@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/obsidian-website/home/","tags":"gardenEntry"}
 ---
 
-# Welcome To My Garden!
+# Welcome To My Website!
 #### Test
 
 ```jupyter
