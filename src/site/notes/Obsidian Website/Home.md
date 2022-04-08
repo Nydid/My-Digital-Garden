@@ -16,6 +16,6 @@ For i in range(5):
 
 Helkl
 
-> [!INFO]
+> [!INFO]-
 > Here's a callout block.
 > It supports **markdown** and [[Internal link|wikilinks]].
