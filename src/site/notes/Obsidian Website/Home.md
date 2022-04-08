@@ -16,8 +16,6 @@ For i in range(5):
 
 Helkl
 
-```ad-note
-title: 
-collapse: open
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. 
-```
+> [!INFO]
+> Here's a callout block.
+> It supports **markdown** and [[Internal link|wikilinks]].
